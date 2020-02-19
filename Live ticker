@@ -1,1 +1,10 @@
-
+<div id="msp_info_Z3wt9p"><a href="https://www.meinspielplan.de">powered by meinSpielplan.de</a></div>
+<script type="text/javascript">
+var _msp = _msp || [];
+_msp.push(['msp_info_Z3wt9p', '300', 'dark', 'title', '', '', 'nolinking', '', '']);
+(function() {
+ var m = document.createElement('script'); m.type = 'text/javascript'; m.async = true;
+ m.src = 'https://www.meinspielplan.de/jscript/widget.js';
+ var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(m, s);
+})();
+</script>
